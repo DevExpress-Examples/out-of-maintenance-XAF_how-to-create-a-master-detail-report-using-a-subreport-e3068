@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DomainObject1.cs](./CS/WinSolution3.Module/DomainObject1.cs) (VB: [DomainObject1.vb](./VB/WinSolution3.Module/DomainObject1.vb))
+* [DomainObject2.cs](./CS/WinSolution3.Module/DomainObject2.cs) (VB: [DomainObject2.vb](./VB/WinSolution3.Module/DomainObject2.vb))
+* **[Updater.cs](./CS/WinSolution3.Module/Updater.cs) (VB: [Updater.vb](./VB/WinSolution3.Module/Updater.vb))**
+<!-- default file list end -->
 # How to create a master-detail report using a Subreport
 
 
