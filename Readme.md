@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Updater.cs](./CS/WinSolution3.Module/Updater.cs) (VB: [Updater.vb](./VB/WinSolution3.Module/Updater.vb))**
+<!-- default file list end -->
 # How to create a master-detail report using a Subreport
 
 
